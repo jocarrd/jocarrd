@@ -5,6 +5,6 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://github-profile-trophy.vercel.app/?username=jocarrd&theme=onedark&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)"/> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocarrd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
