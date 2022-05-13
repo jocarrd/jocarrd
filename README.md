@@ -5,7 +5,7 @@
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack en proceso</strong> <br />¡Echa un vistazo a mis repositorios 👇!</p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jocarrd&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<a>
+<p align="center" width="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocarrd&layout=compact&theme=tokyonight" />
-</a>
+</p>
 
