@@ -3,7 +3,8 @@
    <h3 align="center">¡Hola 👋! Soy Jorge 👨🏻‍💻</h3>
 </p>
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack en proceso</strong> <br />¡Echa un vistazo a mis repositorios 👇!</p>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<p align="center"><h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2></p>
+
 <table>
   <tr> 
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
