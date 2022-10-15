@@ -2,7 +2,8 @@
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/55456507?s=400&u=6f85cec8472b56f28680969bb3f40ee325ff3e58&v=4" />
    <h3 align="center">¡Hola 👋! Soy Jorge 👨🏻‍💻</h3>
 </p>
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack en proceso</strong> <br />¡Echa un vistazo a mis repositorios 👇!</p>
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack </strong> <br />¡Echa un vistazo a mis repositorios 👇!</p>
+<p align="center"> <strong>Me encanta REACT ⚛️ !</strong> </p>
 <h3 align="center">Skill set</h3>
 
 <table>
