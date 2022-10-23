@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Jorge 👨🏻‍💻</h3>
 </p>
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack </strong> <br />¡Echa un vistazo a mis repositorios 👇!</p>
-<p align="center"> <strong>Me encanta REACT ⚛️ !</strong> </p>
+<p align="center"> <strong>Me encanta REACT ⚛️ y NODE !</strong> </p>
 <h3 align="center">Skill set</h3>
 
 <table>
