@@ -30,7 +30,7 @@
 
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jocarrd)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jocarrd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center" width="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocarrd&layout=compact&theme=tokyonight" />
 </p>
