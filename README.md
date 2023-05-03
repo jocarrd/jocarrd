@@ -23,6 +23,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
     <td><img src="https://skillicons.dev/icons?i=firebase" width="200"></td>  
+    <td><img src="https://skillicons.dev/icons?i=graphql" width="200"></td>
   </tr>
 
 </table>
