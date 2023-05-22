@@ -3,7 +3,6 @@
    <h3 align="center">¡Hello 👋! I'm Jorge Carrera </h3>
 </p>
 <p align="center"><strong>JavaScript Full Stack Developer </strong>
-   <br/> Working on Hiberus ! <img align="center" width="30" src="https://comparasoftware-192fc.kxcdn.com/media/3733" /> 
 </p>
 <p align="center"> 
   Check out my repositories 👇!
