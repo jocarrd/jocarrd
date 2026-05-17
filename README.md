@@ -1,39 +1,31 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/55456507?s=400&u=6f85cec8472b56f28680969bb3f40ee325ff3e58&v=4" />
-   <h3 align="center">Hello 👋! I'm Jorge Carrera </h3>
-</p>
-<p align="center"><strong>Full Stack Developer </strong>
-</p>
-<p align="center"> 
-  Check out my repositories 👇!
-</p>
+## Jorge Carrera Diez
 
-<h3 align="center">Skill set</h3>
+**Tech Lead at Capgemini and founder of [Snowy](https://snowy.es).** Computer
+engineer based in Logroño, Spain (CPITIR-certified).
 
-<table>
-  <tr> 
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
-     <td><img src="https://skillicons.dev/icons?i=nextjs" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
-    <td><img src="https://skillicons.dev/icons?i=prisma" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
-    <td><img src="https://skillicons.dev/icons?i=typescript" width="200"></td>
-    <td><img src="https://skillicons.dev/icons?i=firebase" width="200"></td>  
-    <td><img src="https://skillicons.dev/icons?i=graphql" width="200"></td>
-  </tr>
+I lead the frontend of a strategic project for VidaCaixa. Previously Lead
+Software Engineer on Banco Santander's Pandora program and on Inditex's
+in-store terminal at Minsait (Indra).
 
-</table>
+In parallel I run **[LaRiojaMeteo](https://lariojameteo.es)**, a regional
+weather brand with 500k+ monthly visits, and I'm building **[Snowy](https://snowy.es)**
+as its product — a real-time meteorology platform with multi-model ensemble
+forecasting (ECMWF, GFS, ICON, ARPEGE, GEM), interactive radar, ingestion from
+AEMET, Euskalmet, MeteoGalicia, MITECO, CAMS, USGS and IGN, and a
+conversational AI assistant.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jocarrd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center" width="300">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocarrd&layout=compact&theme=tokyonight" />
-</p>
+### Background
 
+- Tech Lead — Capgemini · VidaCaixa _(2025 – present)_
+- Lead Software Engineer — Capgemini · Grupo Santander, Pandora _(2025)_
+- Full Stack — Minsait (Indra) · Inditex store terminal _(2023 – 2025)_
+- Full Stack / Frontend — Hiberus Digital _(2022 – 2023)_
+- B.Eng. Computer Engineering — Universidad de La Rioja _(2022)_
+- AWS Cloud Practitioner · Solutions Architect (in progress)
+
+### Contact
+
+Open to startup opportunities and collaborations.
+
+- LinkedIn — [jorge-carrera-diez](https://www.linkedin.com/in/jorge-carrera-diez)
+- `jorgecarrera98d@gmail.com`
