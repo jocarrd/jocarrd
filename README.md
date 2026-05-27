@@ -3,7 +3,8 @@
 **Tech Lead at Capgemini and founder of [Snowy](https://snowy.es).** Computer
 engineer based in Logroño, Spain (CPITIR-certified).
 
-I lead the frontend of a strategic project for VidaCaixa. Previously Lead
+I lead the frontend of a strategic project for VidaCaixa and drive
+Generative AI adoption initiatives within the account. Previously Lead
 Software Engineer on Banco Santander's Pandora program and on Inditex's
 in-store terminal at Minsait (Indra).
 
@@ -16,7 +17,7 @@ conversational AI assistant.
 
 ### Background
 
-- Tech Lead — Capgemini · VidaCaixa _(2025 – present)_
+- Tech Lead — Capgemini · VidaCaixa (frontend & GenAI adoption) _(2025 – present)_
 - Lead Software Engineer — Capgemini · Grupo Santander, Pandora _(2025)_
 - Full Stack — Minsait (Indra) · Inditex store terminal _(2023 – 2025)_
 - Full Stack / Frontend — Hiberus Digital _(2022 – 2023)_
