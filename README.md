@@ -4,27 +4,22 @@
 engineer for [EQx](https://elitequality.org) (Switzerland).** Computer engineer
 based in Logroño, Spain (CPITIR-certified).
 
-I lead the frontend of a strategic project for VidaCaixa and drive
-Generative AI adoption initiatives within the account. Previously Lead
-Software Engineer on Banco Santander's Pandora program and on Inditex's
-in-store terminal at Minsait (Indra).
+I lead the frontend of a strategic project for VidaCaixa and drive Generative AI
+adoption initiatives within the account. Previously Lead Software Engineer on
+Banco Santander's Pandora program and on Inditex's in-store terminal at Minsait
+(Indra).
 
-In parallel I work with the **Foundation for Value Creation**, the Swiss
-foundation behind the [**Elite Quality Index**](https://www.unisg.ch/en/research/research-in-focus/elite-quality-index/)
-— a political-economy index published since 2020 under the academic leadership
-of three University of St. Gallen institutes, ranking 151 countries by how far
-their elites create value for society rather than extract it. I took over as the
-engineer behind its digital products: the public index site and the private
-console alongside it. It's a small setup, so the job isn't only writing code —
-it's owning the handover, talking directly to the index directors and designers,
-and deciding what ships before each milestone.
+For the **Foundation for Value Creation** in Switzerland, I own the digital
+products behind the [**Elite Quality Index**](https://www.unisg.ch/en/research/research-in-focus/elite-quality-index/):
+the public index site and the private console alongside it. It's a small setup,
+so the job isn't only writing code — I took over the handover, work directly with
+the index directors and designers, and decide what ships before each milestone.
 
 I also run **[LaRiojaMeteo](https://lariojameteo.es)**, a regional weather brand
-with 500k+ monthly visits, and I'm building **[Snowy](https://snowy.es)** as its
-product — a real-time meteorology platform with multi-model ensemble forecasting
-(ECMWF, GFS, ICON, ARPEGE, GEM), interactive radar, ingestion from AEMET,
-Euskalmet, MeteoGalicia, MITECO, CAMS, USGS and IGN, and a conversational AI
-assistant.
+with **500k+ monthly visits**, and I'm building **[Snowy](https://snowy.es)** as
+its product: a real-time meteorology platform with ensemble forecasting across
+five NWP models, interactive radar, ingestion from public agency networks
+(AEMET, Euskalmet, MeteoGalicia and others), and a conversational AI assistant.
 
 ### Background
 
